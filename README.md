@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Akalanka</h1>
-<h3 align="center">Passionate Software Engineering Student | Aspiring Mobile App and Fullstack Developer</h3>
+<h3 align="center">Passionate Software Engineering Student | Aspiring Fullstack Developer</h3>
 
 - 📫 How to reach me **pasinduakalanka08@gmail.com**
   
