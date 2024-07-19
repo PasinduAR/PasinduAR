@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasindu Akalanka</h1>
 <h3 align="center">Passionate Software Engineering Student | Aspiring Fullstack Developer🌟.</h3>
 
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
