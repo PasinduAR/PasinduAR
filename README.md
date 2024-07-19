@@ -22,10 +22,6 @@
 <!-- <p  align="center">
   <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="giphy">
 </p> -->
-<h3 align="left">GitHub stats:</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PasinduAR&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-
 
 <h3 align="left">Skills:</h3>
 <p align="center">
@@ -56,5 +52,16 @@
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
     
 </p>
+
+<h3 align="left">GitHub stats:</h3>
+
+<p align="center">
+<a href="https://github.com/PasinduAR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduAR&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
+
+
 
 <br>
